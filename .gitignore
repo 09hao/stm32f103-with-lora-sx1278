@@ -1,0 +1,17 @@
+Debug/
+Release/
+*.o
+*.elf
+*.map
+*.lst
+*.d
+*.su
+*.log
+.build/
+.settings/
+.project
+.cproject
+*.bin
+*.hex
+.vscode/
+.idea/
